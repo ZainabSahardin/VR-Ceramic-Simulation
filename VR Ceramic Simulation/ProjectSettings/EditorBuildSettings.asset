@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Custom Asset/Scenes/V0.1.0.unity
+    guid: 8127dd1fc77a30b458498d613673ee13
+  - enabled: 0
+    path: Assets/Custom Asset/Scenes/V0.1.1.unity
+    guid: 2cd218817ef493d449c90834717242b0
+  - enabled: 0
+    path: Assets/Custom Asset/Scenes/Old Folder/Scene 8.unity
+    guid: f06ac94e9c7bba94fa6dfa9e7ea8281b
+  - enabled: 0
+    path: Assets/Scenes/Workspace mouse input 1.unity
+    guid: 791016ba48649a548b42d8703e288d60
+  - enabled: 0
+    path: Assets/Scenes/Workspace glazing.unity
+    guid: aca08071dfc8a0b45a076bda07a5418c
+  - enabled: 0
+    path: Assets/Scenes/workspace pottery 1.unity
+    guid: 9614a6e1e6c6e5f4297ef7ce90202e00
+  - enabled: 0
+    path: Assets/Scenes/Workspace firing.unity
+    guid: c75a4134e4809684d8d291a1c66db7ba
+  - enabled: 0
+    path: Assets/Scenes/TUTORIAL MODE.unity
+    guid: e636ad0e6bd61894bb744e7056378074
+  - enabled: 0
+    path: Assets/Scenes/Workspace firing 1.unity
+    guid: 174cf3d3c41c09c44b2c12b5c932680a
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b46856ef547e7bc47b1b45d6c635e248
+  - enabled: 1
+    path: Assets/Scenes/FREEFORM MODE.unity
+    guid: dd4a45b65b3721f4bbf95bfc54c73b0a
+  - enabled: 1
+    path: Assets/Scenes/Pinch 01 Shaping.unity
+    guid: f38a272ef737b9c47b9d25b4818ea506
+  - enabled: 1
+    path: Assets/Scenes/Pinch 02 Glazing.unity
+    guid: c3e4b256b39b36f4ba710e4bdd109bb6
+  - enabled: 1
+    path: Assets/Scenes/Pinch 03 Firing.unity
+    guid: 00e22782e92c29d4894ba66021d361bd
+  - enabled: 1
+    path: Assets/Scenes/Slab 01 Shaping.unity
+    guid: 2d05b5666684a5f4c9c5792ea398e185
+  - enabled: 1
+    path: Assets/Scenes/Slab 02 Glazing.unity
+    guid: 49ac6f27efd2c5543803fc1a694ea1dd
+  - enabled: 1
+    path: Assets/Scenes/Slab 03 Firing.unity
+    guid: f7d8946ec97b0dd46a31b0cafc27f379
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e9c78cfe2441f7c4db58b71d46a78211,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2459ce163a7db5543a3de95f574c7d4d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 01a18f6aa12762d428cd4203deb0d9e8,
+      type: 2}
